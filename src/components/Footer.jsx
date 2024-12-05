@@ -9,11 +9,7 @@ const Footer = () => {
         <div>
           <img className="mb-5 w-40" src={assets.logo} alt="" />
           <p className="w-full md:w-2/3 text-gray-600 leading-6">
-            amet consectetur adipisicing elit. Consectetur accusantium, autem,
-            voluptatem amet ab explicabo adipisci suscipit officiis illo optio
-            magni deserunt cupiditate labore quasi ipsum doloremque, impedit
-            maiores quas saepe. Reiciendis fugit error molestias adipisci a
-            corrupti, aliquam quos nobis sapiente odio dolorum quas.
+          focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.
           </p>
         </div>
         {/*center section */}
